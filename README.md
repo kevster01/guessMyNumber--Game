@@ -1,2 +1,1 @@
-# guessMyNumber--Game
- "Guess My Number!". The entire purpose of this application was to showcase the usage of document.querySelector.
+"Guess My Number!" is a simple yet engaging game designed to demonstrate the implementation of querySelector. Players are tasked with guessing a number between 1 and 20. Starting with a score of 20, players lose points for guesses that are too high or too low. Winning the game allows players to achieve a high score, with the option to save it locally. The game's focus on utilizing querySelector showcases its practical application in web development.
